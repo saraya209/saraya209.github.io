@@ -1,3 +1,32 @@
 theme: jekyll-theme-minimal
-title: Welcome to my homepage!
-description: Feel free to bookmark this to keep an eye on my project updates.
+logo: "assets/images/profile_picture_small.jpg"
+title: Samuel N Araya
+description: >
+  Ph.D. Candidate
+  <br>
+  <a href="http://soilphysics.ucmerced.edu/">Environmenal Soil Physics</a>
+  <br>
+  University of California, Merced
+  <br><br>
+include: ["_pages"]
+breadcrumbs: true  # disabled by default
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      author_profile: true
+
+author:
+  name: "Samuel N Araya"
+  avatar: "assets/images/profile_picture_small.jpg"
+  bio: "Ph.D. Candidate"
+  location: "UC Merced"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/SamuelA209"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/saraya209"
