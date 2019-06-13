@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /
-title: Welcome to my website
+title: ## Welcome to my website
 ---
 
 I'm a Ph.D. candidate at the UC Merced [soil physics lab](http://soilphysics.ucmerced.edu/). My research interests are in applying machine learning and spatial analysis to address environmental problems across scales. I have a particular interest in remote sensing surface-subsurface processes from unmanned aircraft systems.
