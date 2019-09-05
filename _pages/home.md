@@ -4,9 +4,13 @@ permalink: /
 title: ## Welcome to my website
 ---
 
-I'm a recent Ph.D. graduate from the UC Merced [soil physics group](http://soilphysics.ucmerced.edu/). I am interested in applying machine learning and spatial analysis to address environmental problems across scales. My doctoral research is on linking soil structure and land surface characteristics with soil hydrology by using machine learning, unmanned aircraft systems, and observations from long-term conservation agriculture management.
+I'm a postdoctoral research fellow at Stanford University [Soil and Environmental Biogeochemistry group](https://pangea.stanford.edu/soils/). My research interests are in applying  machine learning and spatial analysis methods to address soil and environmental problems across scales.
 
-I primarily code in R and less so in Python. Software and computational tools I've worked with include ArcGIS/QGIS, Google Earth Engine API (JavaScript), Shiny development, Git, and high-performance computing.
+I am currently involved in unmanned aircraft systems based remote sensing research focused on deciphering arsenic concentrations on rice, and on determining subsurface biogeochemistry of a floodplain.
+
+My recent doctoral dissertation at the UC Merced [Soil Physics group](http://soilphysics.ucmerced.edu/) was focused on linking soil structure and land surface characteristics with soil hydrology by using machine learning, unmanned aircraft systems, and observations from long-term conservation agriculture management.
+
+I primarily code in R and a little in Python. My computational proficiencies include ArcGIS, QGIS, Google Earth Engine API (JavaScript), Shiny development, Git, and high-performance computing.
 
 ## Publications
 - Araya, S. N., & Ghezzehei, T. A. (2019). **Using Machine Learning for Prediction of Saturated Hydraulic Conductivity and its Sensitivity to Soil Structural Perturbation**. Water Resources Research. 55(7). 5715-5737. [doi: 10.1029/2018WR024357](https://doi.org/10.1029/2018WR024357).
