@@ -101,6 +101,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/saraya209"
+    - label: "ORCID"
+      icon: "assets/images/ORCID_sml.jpg"
+      url: "https://orcid.org/0000-0001-7850-540"
 
 # Site Footer
 footer:
