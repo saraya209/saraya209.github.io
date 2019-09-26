@@ -102,7 +102,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/saraya209"
     - label: "ORCID"
-      icon: "fas fa-orcid"
+      icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0000-0001-7850-5402"
 
 # Site Footer
